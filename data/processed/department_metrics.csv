@@ -1,0 +1,7 @@
+Department,total_employees,resigned_employees,avg_monthly_salary_inr,min_monthly_salary_inr,max_monthly_salary_inr,avg_training_hours,avg_attendance_pct,attrition_rate_pct
+Finance,20,0,82000.0,42500,117500,20.8,91.95,0.0
+Sales,18,2,77500.0,32500,120000,18.0,82.99,11.11
+Operations,18,1,71111.11,25000,120000,19.44,87.15,5.56
+Marketing,17,2,77941.18,27500,115000,23.29,81.53,11.76
+IT,16,1,77968.75,35000,120000,17.75,85.74,6.25
+HR,11,2,66136.36,27500,115000,22.0,75.0,18.18

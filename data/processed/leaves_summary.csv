@@ -1,0 +1,13 @@
+Leave_Type,Approval_Status,leave_count,total_leave_days
+Casual Leave,Approved,20,50
+Casual Leave,Pending,11,31
+Casual Leave,Rejected,8,20
+Earned Leave,Approved,14,38
+Earned Leave,Pending,8,24
+Earned Leave,Rejected,13,33
+Sick Leave,Approved,22,66
+Sick Leave,Pending,10,23
+Sick Leave,Rejected,9,22
+Unpaid Leave,Approved,22,58
+Unpaid Leave,Pending,9,20
+Unpaid Leave,Rejected,11,21
